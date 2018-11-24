@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Джульетта Гигиева](https://up.htmlacademy.ru/htmlcss/23/user/580617).
-* Наставник: `Неизвестно`.
+* Наставник: [МагомедКандаев](https://htmlacademy.ru/profile/magomedkandaev).
 
 ---
 
